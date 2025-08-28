@@ -1,0 +1,24 @@
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\bin\Debug\MetaFarms.exe.config
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\bin\Debug\MetaFarms.exe
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\bin\Debug\MetaFarms.pdb
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\bin\Debug\MetaFarms.xml
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\obj\Debug\MetaFarms.Form1.resources
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\obj\Debug\MetaFarms.Resources.resources
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\obj\Debug\MetaFarms.vbproj.GenerateResource.Cache
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\obj\Debug\MetaFarms.exe
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\obj\Debug\MetaFarms.xml
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\obj\Debug\MetaFarms.pdb
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\bin\Debug\MySql.Data.dll
+C:\Users\rkuru\AppData\Local\Temporary Projects\MetaFarms\obj\Debug\MetaFarms.vbprojResolveAssemblyReference.cache
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\bin\Debug\MetaFarms.exe.config
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\obj\Debug\MetaFarms.exe
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\obj\Debug\MetaFarms.xml
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\obj\Debug\MetaFarms.pdb
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\obj\Debug\MetaFarms.vbprojResolveAssemblyReference.cache
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\obj\Debug\MetaFarms.Form1.resources
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\obj\Debug\MetaFarms.Resources.resources
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\obj\Debug\MetaFarms.vbproj.GenerateResource.Cache
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\bin\Debug\MetaFarms.exe
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\bin\Debug\MetaFarms.pdb
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\bin\Debug\MetaFarms.xml
+C:\Users\rkuru\Documents\Visual Studio 2012\Projects\MetaFarms\MetaFarms\bin\Debug\MySql.Data.dll
